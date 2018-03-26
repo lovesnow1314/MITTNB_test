@@ -1,2 +1,2 @@
 # MITTNB_test
-blockchain base on ETH test1
+blockchain base on ETH test2
